@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, seja bem vinda(o) ao meu mundo. Pode me chamar de Lua, sou Back-end Developer. Sinta-se a vontade para dar uma olhada nos meus trabalhos!!
+Olá, seja bem vinda(o) ao meu mundo!! Pode me chamar de Lua, sou Back-end Developer. Sinta-se a vontade para dar uma olhadinha nos meus trabalhos!!
 
 
 ## 🌐 Socials:
